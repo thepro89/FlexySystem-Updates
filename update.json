@@ -1,9 +1,10 @@
 {
-  "LatestVersion": "1.0.8",
-  "DownloadUrl": "https://github.com/thepro89/FlexySystem-Updates/raw/refs/heads/main/releases/download/v1.0.8/update.zip",
+  "LatestVersion": "1.0.7",
+  "DownloadUrl": "https://github.com/thepro89/FlexySystem-Updates/raw/refs/heads/main/releases/download/v1.0.7/update.zip",
   "ReleaseNotes": "• تحسين واجهة الإعدادات.\n• إصلاح مشكلة .",
   "IsMandatory": false
 }
+
 
 
 
